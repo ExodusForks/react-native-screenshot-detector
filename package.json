@@ -11,7 +11,7 @@
   "author": "gcarling",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExodusMovement/react-native-screenshot-detector"
+    "url": "https://github.com/ExodusForks/react-native-screenshot-detector"
   },
   "license": "MIT"
 }
